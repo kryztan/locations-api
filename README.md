@@ -1,6 +1,6 @@
 # Locations API
 
-An API that returns Location points for a region on a map.
+An API that returns Location points for a region on a map
 
 ----------
 
